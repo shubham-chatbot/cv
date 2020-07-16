@@ -46,3 +46,31 @@ bottom: 300px;
 div{
   background-color: #e1f2fb
 }
+
+.btn {
+  background: #00385e;
+  background-image: -webkit-linear-gradient(top, #00385e, #089dfa);
+  background-image: -moz-linear-gradient(top, #00385e, #089dfa);
+  background-image: -ms-linear-gradient(top, #00385e, #089dfa);
+  background-image: -o-linear-gradient(top, #00385e, #089dfa);
+  background-image: linear-gradient(to bottom, #00385e, #089dfa);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #136496;
+  background-image: -webkit-linear-gradient(top, #136496, #0c456b);
+  background-image: -moz-linear-gradient(top, #136496, #0c456b);
+  background-image: -ms-linear-gradient(top, #136496, #0c456b);
+  background-image: -o-linear-gradient(top, #136496, #0c456b);
+  background-image: linear-gradient(to bottom, #136496, #0c456b);
+  text-decoration: none;
+}
+
