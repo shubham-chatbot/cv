@@ -6,8 +6,9 @@ body{
   }
   h1{
     font-size: 90px;
-    margin: 50 auto 0;auto
-    padding-top:  100px;
+    margin: 50 auto 0 auto;
+    padding-top:  80px;
+    padding-bottom:  0px;
     font-family: 'Sacramento', cursive;
   }
   h2{
