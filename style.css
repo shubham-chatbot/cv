@@ -30,7 +30,7 @@ body{
 }
 
 .bottom-container{
-
+padding-top: 10px;
 }
 
 .top-cloud{
@@ -47,7 +47,7 @@ bottom: 300px;
 div{
   background-color: #e1f2fb
 }
-.footer-link{
+.footer-link {
   margin-top: 30px;
   padding-top:  30px;
 }
