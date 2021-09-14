@@ -33,6 +33,20 @@ body{
 padding-top: 10px;
 }
 
+.blink {
+  animation: blink 3s infinite;
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    color: yellow;
+  }
+}
+
 .top-cloud{
 position: absolute;
 right: 300px;
